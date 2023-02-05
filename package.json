@@ -6,9 +6,6 @@
   "keywords": [
     "gatsby"
   ],
-  "engines": {
-    "node":">=18.0.0"
-  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -19,6 +16,7 @@
   "dependencies": {
     "gatsby": "^5.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "node":">=18.0.0"
   }
 }
